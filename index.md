@@ -43,10 +43,12 @@ Helps track UI changes, monitor uptime, or keep a visual archive of evolving pro
 
 
 ### Quick Demo
+
 <video width="640" height="360" controls>
   <source src="/assets/img/workflowdemo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 ---
 
 # Contact 
