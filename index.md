@@ -9,7 +9,7 @@ Here you’ll find some of my highlighted projects and a way to get in touch.
 
 ---
 
-# Portfolio {#portfolio}
+# Portfolio 
 
 ## Resume Parser  
 An automated workflow that extracts information from uploaded resumes (Word or PDF).  
@@ -21,7 +21,7 @@ It parses names, emails, phone numbers, education, and experience into structure
 Extends the parser by evaluating resumes against specific job requirements.  
 It scores resumes, highlights strengths/weaknesses, and helps HR teams quickly shortlist qualified applicants.
 
-![Resume Evaluator](/asset/img/resumeevaluator.png)
+![Resume Evaluator](/assets/img/resumeevaluator.png)
 
 ## PDF Scraper  
 A workflow that pulls text and structured data from PDF files.  
@@ -49,7 +49,7 @@ Helps track UI changes, monitor uptime, or keep a visual archive of evolving pro
 </video>
 ---
 
-# Contact {#contact}
+# Contact 
 
 📧 **Email:** [hanzwilcraiga.barcel@gmail.com](mailto:hanzwilcraiga.barcel@gmail.com)<br>
 💼 **LinkedIn:** [linkedin.com/in/hanz-wilcraig-barcel-](https://www.linkedin.com/in/hanz-wilcraig-barcel-/)<br>
