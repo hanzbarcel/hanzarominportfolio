@@ -4,7 +4,8 @@ description: "Automation Specialist || AI Generalist || n8n Workflows || API Int
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-
+include:
+ - assets/img/workflowdemo.mp4
 # Navigation links
 nav:
   - name: "Home"
