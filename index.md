@@ -21,7 +21,7 @@ It parses names, emails, phone numbers, education, and experience into structure
 Extends the parser by evaluating resumes against specific job requirements.  
 It scores resumes, highlights strengths/weaknesses, and helps HR teams quickly shortlist qualified applicants.
 
-![Resume Evaluator](/asset.img.resumeevaluator.png)
+![Resume Evaluator](/asset/img/resumeevaluator.png)
 
 ## PDF Scraper  
 A workflow that pulls text and structured data from PDF files.  
@@ -33,14 +33,17 @@ Useful for extracting invoices, contracts, or research documents into spreadshee
 An automation pipeline that uses AI to generate content drafts for blogs, captions, or documentation.  
 It reduces time spent writing repetitive material while ensuring consistent tone and style.
 
-![Content Generator](asset.img.contentgenerator.png)
+![Content Generator](asset/img/contentgenerator.png)
 
 ## Automatic Screenshot  
 A monitoring workflow that takes scheduled screenshots of websites or apps.  
 Helps track UI changes, monitor uptime, or keep a visual archive of evolving projects.
 
-![Automatic Screenshot](/asset.img.automaticscreenshot.png)
+![Automatic Screenshot](/asset/img/automaticscreenshot.png)
 
+
+### Quick Demo
+![Workflow Demo](/asset/img/workflowdemo.mp4)
 ---
 
 # Contact {#contact}
