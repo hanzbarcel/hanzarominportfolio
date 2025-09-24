@@ -2,44 +2,43 @@
 layout: default
 ---
 
-# Hanz Aromin
+# Welcome to My Portfolio
 
-Automation Specialist | n8n Workflows | API Integrations  
-
----
-
-## My Automation Works 🚀
-
-### Resume Parser
-A workflow that extracts information from `.docx` resumes using Mammoth.js integrated with n8n.  
-This makes unstructured documents machine-readable and ready for use in HR systems.  
+Hi, I’m **Hanz Aromin** — an Automation Specialist with expertise in **n8n workflows**, **API integrations**, and building efficient, AI-powered solutions.  
+Here you’ll find some of my highlighted projects and a way to get in touch.
 
 ---
 
-### Resume Evaluator
-An automated system that evaluates resumes against job descriptions.  
-It scores candidates based on keyword matching, required skills, and relevance, helping recruiters filter applicants faster.  
+# Portfolio {#portfolio}
+
+## Resume Parser  
+An automated workflow that extracts information from uploaded resumes (Word or PDF).  
+It parses names, emails, phone numbers, education, and experience into structured data — making it easy for recruiters or HR systems to filter candidates.
+
+## Resume Evaluator  
+Extends the parser by evaluating resumes against specific job requirements.  
+It scores resumes, highlights strengths/weaknesses, and helps HR teams quickly shortlist qualified applicants.
+
+## PDF Scraper  
+A workflow that pulls text and structured data from PDF files.  
+Useful for extracting invoices, contracts, or research documents into spreadsheets or databases automatically.
+
+## Content Generator  
+An automation pipeline that uses AI to generate content drafts for blogs, captions, or documentation.  
+It reduces time spent writing repetitive material while ensuring consistent tone and style.
+
+## Automatic Screenshot  
+A monitoring workflow that takes scheduled screenshots of websites or apps.  
+Helps track UI changes, monitor uptime, or keep a visual archive of evolving projects.
 
 ---
 
-### PDF Scraper
-An n8n pipeline designed to extract structured data from PDF documents.  
-Useful for contracts, invoices, or research papers where important information needs to be pulled out automatically.  
+# Contact {#contact}
+
+📧 **Email:** hanzwilcraiga.barcel@gmail.com 
+💼 **LinkedIn:** https://www.linkedin.com/in/hanz-wilcraig-barcel-/
+🐙 **GitHub:** https://github.com/hanzbarcel
 
 ---
 
-### Content Generator
-This workflow leverages AI integration inside n8n to generate text content based on given prompts.  
-It can be used for blog writing, social media captions, or quick draft generation.  
-
----
-
-### Automatic Screenshot
-A scheduled workflow that captures website screenshots automatically.  
-Helps in monitoring uptime, tracking design changes, and archiving visual references.  
-
----
-
-## About Me
-I specialize in designing and implementing automation solutions that streamline operations, reduce manual work, and save costs.  
-With expertise in **n8n** and API integrations, I build scalable workflows that make businesses more efficient.  
+Thanks for visiting my portfolio! 🚀
