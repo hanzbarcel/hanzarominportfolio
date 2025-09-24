@@ -1,6 +1,15 @@
 title: HANZ AROMIN PORTFOLIO
 logo: /assets/img/logo2.png
-description: "Automation Specialist || AI Generalist || n8n Workflows || API Integration
+description: "Automation Specialist || AI Generalist || n8n Workflows || API Integration"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+# Navigation links
+nav:
+  - name: "Home"
+    url: "/"
+  - name: "Portfolio"
+    url: "/#portfolio"
+  - name: "Contact"
+    url: "/#contact"
